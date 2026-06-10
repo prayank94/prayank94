@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Prayank Gupta 👋
 
-<!--
-**prayank94/prayank94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with 5+ years of experience in analytics, business intelligence, automation, and AI-assisted analytics.
 
-Here are some ideas to get you started:
+Currently building end-to-end analytics projects focused on customer intelligence, operational reporting, and AI-powered insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+
+- SQL
+- PostgreSQL
+- Python
+- Pandas
+- Power BI
+- Tableau
+- Excel
+- Google Sheets
+- JSON Data Processing
+- APIs
+- OpenAI API
+- Git
+- GitHub
+- VS Code
+
+---
+
+## Featured Projects
+
+### Customer Conversation Analytics
+AI-powered customer conversation analytics platform using Python, PostgreSQL, OpenAI API and Power BI.
+
+### Customer Support Intelligence
+Customer support intelligence platform for KPI monitoring, sentiment analysis and operational reporting.
+
+### Business Operations Intelligence
+End-to-end business operations intelligence platform integrating multiple data sources and analytics workflows.
+
+---
+
+## Connect With Me
+
+- LinkedIn: linkedin.com/in/prayank94
+- Portfolio: prayank94.github.io
